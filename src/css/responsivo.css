@@ -1,0 +1,56 @@
+@media(max-width: 1220px) {
+    .principal .image img {
+        height: 310px;
+    }
+}
+
+@media(max-width: 800px) {
+    .principal {
+        flex-direction: column;
+        text-align: center;
+        margin: 60px 0 22px;
+    }
+    .principal .image img {
+        height: 350px;
+    }
+
+    .footer nav ul{
+        justify-content: center;
+    }
+
+    .footer .instagram {
+        margin: 0;
+    }
+}
+
+@media(max-width: 490px){
+    body {
+        background-image: url(../images/bg-mobile.svg);
+        background-size: contain;
+    }
+
+    .header img{
+        height: 35px;
+        margin: 26px 0 0 35px;
+    }
+
+    .principal {
+        flex-direction: column;
+        text-align: center;
+        margin: 22px;
+    }
+
+    .principal .image img {
+        height: 220px;
+    }
+
+    .principal .txt h1,h2 {
+        font-size: 1rem;
+    }
+
+    .footer i {
+        font-size: 1.2rem;
+    }
+
+
+}
