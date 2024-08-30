@@ -1,3 +1,5 @@
+   ![Animação](https://github.com/user-attachments/assets/f3e8c4f4-dec3-4563-9d16-f76740d7f370)
+
 
  # > 🪧 Finalizado mais um projeto juntamento com o DevQuest - Dev em Dobro / Frontend Mentor ⚠️
 
